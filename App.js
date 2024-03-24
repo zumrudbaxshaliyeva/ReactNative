@@ -15,7 +15,7 @@ export default function App() {
     {
       question:"what is the biggest animal in the world?",
       options:["Elephant","Bear","Hippopotamus","Blue Whale"],
-      answer:"Baku"
+      answer:"Blue Whale"
     },
   ]
   const handleAnswer=(selectedAnswer)=>{
